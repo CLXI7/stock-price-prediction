@@ -88,7 +88,7 @@ Open the `stock_predictor.ipynb` notebook in VS Code or JupyterLab. Run the cell
 
 ## 🖼️ Example Output
 
-![Predicted vs Actual](assets/sample_plot.png) 
+![Predicted vs Actual](assets/sample_plot.PNG) 
 
 ---
 
